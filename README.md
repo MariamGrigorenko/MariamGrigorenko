@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Mariam Grigorenko
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Git, NodeJS 
-<!-- - 💞️ I’m looking to collaborate on ... -->
+- 🙏 My goal is it to get a job as a web-developer!
+- 🌱 I’m currently learning Node.js => EJS
+- 👀 I'm creating projects using HTML (+ Bootstrap), CSS, JavaScript, Node.js (+ Express.js, EJS)
+- 💞️ I love what I'm doing!
 - 📫 How to reach me: mariamgrigorenko@gmail.com
 
 <!---
