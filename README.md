@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mariam Grigorenko
 - 🙏 My goal is it to get a job as a web-developer!
-- 🌱 I’m currently learning Node.js => EJS
-- 👀 I'm creating projects using HTML (+ Bootstrap), CSS, JavaScript, Node.js (+ Express.js, EJS)
+- 🌱 I’m currently learning Databases => SQL and MongoDB (v. 6.0)
+- 👀 I create projects using HTML (+ Bootstrap), CSS, JavaScript, Node.js (+ Express.js, EJS)
 - 💞️ I love what I'm doing!
 - 📫 How to reach me: mariamgrigorenko@gmail.com
 
